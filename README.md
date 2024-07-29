@@ -20,5 +20,4 @@ O código apresentado implementa um simples sistema de descriptografia, especifi
 ### Descrição Detalhada do Código
 * **Regex.Replace:** Remove todos os espaços da mensagem criptografada, garantindo que apenas os bits sejam processados.
 * **Loops e índices:** Os loops for são utilizados para iterar sobre cada byte da mensagem, realizando as operações de inversão e troca de bits.
-* **StringBuilder:** Embora não utilizado explicitamente neste código, poderia ser uma alternativa para construir a mensagem descriptografada de forma mais eficiente, especialmente para grandes mensagens.
 * **Conversão de binário para caractere:** A função Convert.ToInt32(temp, 2) converte a representação binária de um byte para um número decimal. Em seguida, o casting para char converte esse número para o caractere correspondente.
