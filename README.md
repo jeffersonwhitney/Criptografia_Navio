@@ -3,6 +3,9 @@
 ### Objetivo Geral
 O código apresentado implementa um simples sistema de descriptografia, especificamente projetado para um tipo de criptografia customizada, onde os últimos dois bits de cada byte são invertidos e os primeiros quatro bits são trocados com os quatro seguintes. A aplicação oferece uma interface de linha de comando (CLI) para que o usuário possa inserir a mensagem criptografada e obter a versão descriptografada.
 
+### Preview do Código em Excecução
+![image](https://github.com/user-attachments/assets/56618861-b28a-494e-ba73-e0c05ef02d11)
+
 ### Estrutura do Código
 * **Namespace:** ConsoleApp1: Contém a classe principal do programa.
 * **Classe:** Program:
