@@ -1,5 +1,11 @@
 ## Análise e Documentação do Código
 
+## Como usar
+1. **Baixe o arquivo .rar:** Instale o setup e abra o executavel ou siga para as intruções abaixo.
+2. **Compile o código:** Utilize seu ambiente de desenvolvimento C# para compilar o projeto.
+3. **Execute o programa:** Execute o arquivo executável gerado.
+4. **Interaja com o menu:** Siga as instruções no console para realizar as operações desejadas.
+
 ### Objetivo Geral
 O código apresentado implementa um simples sistema de descriptografia, especificamente projetado para um tipo de criptografia customizada, onde os últimos dois bits de cada byte são invertidos e os primeiros quatro bits são trocados com os quatro seguintes. A aplicação oferece uma interface de linha de comando (CLI) para que o usuário possa inserir a mensagem criptografada e obter a versão descriptografada.
 
